@@ -7,7 +7,7 @@ gcc compiler
 ```
 # Installation
 ```
-  git clone https://github.com/rakshith-crm/Contact-Manager-Trie-Datastructure
+  git clone https://github.com/Barath-2001/contact-manager
 ```
 # Usage
 - Options 1 : Download gcc compiler
